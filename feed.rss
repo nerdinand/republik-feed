@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Republik: Vorgelesene Artikel</title>
+    <link>https://republik.ch</link>
+    <description>Republik: Vorgelesene Artikel</description>
+    <pubDate>Fri, 19 Apr 2019 11:14:18 +0200</pubDate>
+    <item>
+      <title>Die magische Schönheit der Zahlen</title>
+      <link>https://republik.ch/2019/04/18/die-magische-schoenheit-der-zahlen</link>
+      <source url="https://republik.ch/2019/04/18/die-magische-schoenheit-der-zahlen">«1154 Jahre krank» waren die Angestellten des Bundes allein 2018. Dass wir diese staunenswerte Zahl kennen, ist das Verdienst der «SonntagsZeitung». Die Republik-Jury verneigt sich vor den Kollegen.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Sonntags-Zeitung-a.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 18 Apr 2019 02:40:00 -0000</pubDate>
+      <dc:date>2019-04-18T02:40:00Z</dc:date>
+    </item>
+    <item>
+      <title>Zusatzbööggen braucht das Land!</title>
+      <link>https://republik.ch/2019/04/11/zusatzboeoeggen-braucht-das-land</link>
+      <source url="https://republik.ch/2019/04/11/zusatzboeoeggen-braucht-das-land">Wer ist der letzte Garant von Ordnung, Tradition und Klimavernunft? Eine Laudatio auf den Böögg. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Boeoegg.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 11 Apr 2019 02:42:00 -0000</pubDate>
+      <dc:date>2019-04-11T02:42:00Z</dc:date>
+    </item>
+    <item>
+      <title>Die Standhafte</title>
+      <link>https://republik.ch/2019/04/04/die-standhafte</link>
+      <source url="https://republik.ch/2019/04/04/die-standhafte">Theresa Mays bisherige Brexit-Strategie war ein einziges Desaster. Die Republik gratuliert ihr dennoch!</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Theresa-May.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 04 Apr 2019 02:44:00 -0000</pubDate>
+      <dc:date>2019-04-04T02:44:00Z</dc:date>
+    </item>
+    <item>
+      <title>Himmeltief – höllenhoch</title>
+      <link>https://republik.ch/2019/03/30/himmeltief-hoellenhoch</link>
+      <source url="https://republik.ch/2019/03/30/himmeltief-hoellenhoch">Wie es sich anfühlt, immer wieder zwischen manischen und depressiven Phasen hin- und herkatapultiert zu werden: ein Erfahrungsbericht zum Welt-Bipolar-Tag.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Himmeltief-hoellenhoch_Froehling.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 30 Mar 2019 03:48:00 -0000</pubDate>
+      <dc:date>2019-03-30T03:48:00Z</dc:date>
+    </item>
+    <item>
+      <title>Audio-Podcast: «Der Fall ETH»</title>
+      <link>https://republik.ch/2019/03/27/audio-podcast-der-fall-eth</link>
+      <source url="https://republik.ch/2019/03/27/audio-podcast-der-fall-eth">Im Podcast «Aus der Redaktion» geht es um die Geschichten hinter der Geschichte. Dieses Mal: Hintergründe zur ETH-Recherche.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/Aus-der-Redaktion/Republik_AdR_ETH.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 27 Mar 2019 03:50:00 -0000</pubDate>
+      <dc:date>2019-03-27T03:50:00Z</dc:date>
+    </item>
+    <item>
+      <title>Was heisst schon natürlich?</title>
+      <link>https://republik.ch/2019/03/26/was-heisst-schon-natuerlich</link>
+      <source url="https://republik.ch/2019/03/26/was-heisst-schon-natuerlich">Nicht, was zwischen den Beinen sitzt, macht die Geschlechts­identität aus. Sondern was zwischen den Ohren ist. Und doch werden Intermenschen immer noch in eine «Natürlichkeit» gezwungen. Teil 4 der Serie «Sascha, 26, non-binär».</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Was-heisst-schon-natuerlich_Sascha.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 26 Mar 2019 03:50:00 -0000</pubDate>
+      <dc:date>2019-03-26T03:50:00Z</dc:date>
+    </item>
+    <item>
+      <title>Preiswürdig cool</title>
+      <link>https://republik.ch/2019/03/21/preiswuerdig-cool</link>
+      <source url="https://republik.ch/2019/03/21/preiswuerdig-cool">Wir leben in Zeiten der «Klimahysterie», aber es gibt verdiente Stimmen, die sich nicht beirren lassen. Eine Laudatio auf Claudia Wirz, Hans Rentsch und Roger Köppel.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Klimajugend.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 21 Mar 2019 03:46:00 -0000</pubDate>
+      <dc:date>2019-03-21T03:46:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ihr Kinderlein, sparet!</title>
+      <link>https://republik.ch/2019/03/14/ihr-kinderlein-sparet</link>
+      <source url="https://republik.ch/2019/03/14/ihr-kinderlein-sparet">Auf die Kürzung von Kinderrenten verzichten, nur weil das herzlos klingt? Man kann dem Kind doch einfach einen anderen Namen geben! Eine Verneigung vor 106 Parlamentariern mit Weitblick. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Kinderrenten_IV.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 14 Mar 2019 03:46:00 -0000</pubDate>
+      <dc:date>2019-03-14T03:46:00Z</dc:date>
+    </item>
+    <item>
+      <title>Von Hürlimann zu Ivković – und zurück</title>
+      <link>https://republik.ch/2019/03/13/von-huerlimann-zu-ivkovi-und-zurueck</link>
+      <source url="https://republik.ch/2019/03/13/von-huerlimann-zu-ivkovi-und-zurueck">Einst waren die Jugoslawinnen und Jugoslawen in der Schweiz die Traumausländer. Dann aber wurde die SVP gross und das Leben mit «ić» im Nachnamen zum Hindernislauf.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_ic_Hess.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 13 Mar 2019 03:48:00 -0000</pubDate>
+      <dc:date>2019-03-13T03:48:00Z</dc:date>
+    </item>
+    <item>
+      <title>Wenn Männer ihre Frau stehen</title>
+      <link>https://republik.ch/2019/03/07/wenn-maenner-ihre-frau-stehen</link>
+      <source url="https://republik.ch/2019/03/07/wenn-maenner-ihre-frau-stehen">Diese Woche ehren wir fünf Männer, die es gewagt haben, weibliche Vorbilder zu nennen: Die Firmenspitze eines Immobilienvermarkters. Heraus kam eine Art Herrenwitz.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Engel-Voelkers.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 07 Mar 2019 03:46:00 -0000</pubDate>
+      <dc:date>2019-03-07T03:46:00Z</dc:date>
+    </item>
+    <item>
+      <title>Am Klavier – radikale Musik</title>
+      <link>https://republik.ch/2019/03/06/am-klavier-radikale-musik</link>
+      <source url="https://republik.ch/2019/03/06/am-klavier-radikale-musik">Die kühnsten Experimente der Musikgeschichte finden wir in musikalischen Miniaturen, dort haben Komponisten Neues erprobt. Ein Podcast mit dem Pianisten Tomas Bächli.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/Republik_Baechli_Crawford.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 06 Mar 2019 03:46:00 -0000</pubDate>
+      <dc:date>2019-03-06T03:46:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ein Requiem für Uriella</title>
+      <link>https://republik.ch/2019/02/28/ein-requiem-fuer-uriella</link>
+      <source url="https://republik.ch/2019/02/28/ein-requiem-fuer-uriella">Sie ist gestorben, wie sie gelebt hat: als mediale Supernova, als heilige Diva des Trashs, als Hohepriesterin des Boulevards. Jetzt ist das Sprachrohr Gottes eingegangen in die ewige Funkstille.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Uriella.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 28 Feb 2019 03:40:00 -0000</pubDate>
+      <dc:date>2019-02-28T03:40:00Z</dc:date>
+    </item>
+    <item>
+      <title>Laut gelacht</title>
+      <link>https://republik.ch/2019/02/21/laut-gelacht</link>
+      <source url="https://republik.ch/2019/02/21/laut-gelacht">Heute ehren wir die Ligue du LOL. Sie erkannte nicht nur die Not weisser Männer, sie hatte auch den Mut zu handeln.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Ligue-du-LOL.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 21 Feb 2019 03:46:00 -0000</pubDate>
+      <dc:date>2019-02-21T03:46:00Z</dc:date>
+    </item>
+    <item>
+      <title>In der Pathologisierungs­maschinerie</title>
+      <link>https://republik.ch/2019/02/20/in-der-pathologisierungs-maschinerie</link>
+      <source url="https://republik.ch/2019/02/20/in-der-pathologisierungs-maschinerie">In Teil 3 dieser losen Serie befasst sich Sascha mit dem Thema Geschlechtsangleichung: Sascha hat Brüste ge- und ertragen – und trägt sie nun nicht mehr. Dafür hat unsere Gesellschaft wenig Verständnis.  </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Sascha_3.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 20 Feb 2019 03:48:00 -0000</pubDate>
+      <dc:date>2019-02-20T03:48:00Z</dc:date>
+    </item>
+    <item>
+      <title>Überall Identitäten</title>
+      <link>https://republik.ch/2019/02/16/ueberall-identitaeten</link>
+      <source url="https://republik.ch/2019/02/16/ueberall-identitaeten">Minderheitenrechte oder das völkisch «Eigene»: Francis Fukuyama hat sich des Themas angenommen. Aber zum Glück nicht nur er.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Identitaeten_Graf.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 16 Feb 2019 03:48:00 -0000</pubDate>
+      <dc:date>2019-02-16T03:48:00Z</dc:date>
+    </item>
+    <item>
+      <title>Moskaus Lohn: Phosphat aus Palmyra</title>
+      <link>https://republik.ch/2019/02/15/moskaus-lohn-phosphat-aus-palmyra</link>
+      <source url="https://republik.ch/2019/02/15/moskaus-lohn-phosphat-aus-palmyra">Syrien dankt Russland mit lukrativen Rohstoffdeals für die Hilfe im Bürgerkrieg. Mittendrin: Gennadi Timtschenko, der bis heute in Genf als Wohltäter auftritt. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Phosphat-aus-Palmyra_Ali.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 15 Feb 2019 03:50:00 -0000</pubDate>
+      <dc:date>2019-02-15T03:50:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ein Orden, den Valentin verdient hat</title>
+      <link>https://republik.ch/2019/02/14/ein-orden-den-valentin-verdient-hat</link>
+      <source url="https://republik.ch/2019/02/14/ein-orden-den-valentin-verdient-hat">Er war einer der wenigen Bayern auf Weltniveau, aber Karl Valentin dreht sich im Grab um, wenn er sieht, wer in seinem Namen geehrt wird. Als kleiner Trost der Preis der Republik.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Karl-Valentin.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 14 Feb 2019 03:46:00 -0000</pubDate>
+      <dc:date>2019-02-14T03:46:00Z</dc:date>
+    </item>
+    <item>
+      <title>Am Klavier – schwarze Romantik</title>
+      <link>https://republik.ch/2019/02/08/am-klavier-schwarze-romantik</link>
+      <source url="https://republik.ch/2019/02/08/am-klavier-schwarze-romantik">Die kühnsten Experimente der Musikgeschichte finden wir in musikalischen Miniaturen. Dort haben Komponisten Neues erprobt. Ein Podcast mit dem Pianisten Tomas Bächli.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/Republik_Alkan.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 08 Feb 2019 03:40:00 -0000</pubDate>
+      <dc:date>2019-02-08T03:40:00Z</dc:date>
+    </item>
+    <item>
+      <title>35 Worte für die Ewigkeit</title>
+      <link>https://republik.ch/2019/02/07/35-worte-fuer-die-ewigkeit</link>
+      <source url="https://republik.ch/2019/02/07/35-worte-fuer-die-ewigkeit">Unser Preisträger Mario Draghi hat im Alleingang den Euro gerettet. Und treibt Deutschlands ordoliberale Ökonomen zur Weissglut. Beides verdient höchstes Lob.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Mario-Draghi.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 07 Feb 2019 03:46:00 -0000</pubDate>
+      <dc:date>2019-02-07T03:46:00Z</dc:date>
+    </item>
+    <item>
+      <title>«An der Bar» mit Damir Skenderovic</title>
+      <link>https://republik.ch/2019/01/24/an-der-bar-mit-damir-skenderovic</link>
+      <source url="https://republik.ch/2019/01/24/an-der-bar-mit-damir-skenderovic">Über Jahrzehnte leisteten rechte Intellektuelle Vorarbeit für das Emporkommen des Populismus. Ihre Vorbilder waren: die 68er – und die Schweizer Reaktionäre. Historiker Damir Skenderovic im Videogespräch mit Roger de Weck. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/anderbar/Republik_An-der-Bar-Skenderovic.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 24 Jan 2019 03:50:00 -0000</pubDate>
+      <dc:date>2019-01-24T03:50:00Z</dc:date>
+    </item>
+    <item>
+      <title>«So Leute wie dich!»</title>
+      <link>https://republik.ch/2019/01/16/so-leute-wie-dich</link>
+      <source url="https://republik.ch/2019/01/16/so-leute-wie-dich">Sascha sollte verprügelt werden, findet jemand auf der Strasse. Den Grund dafür muss Sascha erst googeln. Teil 2 der Serie «Sascha, 26, non-binär»: Die Sache mit den Trends. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Sascha_2.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 16 Jan 2019 03:50:00 -0000</pubDate>
+      <dc:date>2019-01-16T03:50:00Z</dc:date>
+    </item>
+    <item>
+      <title>Am Klavier – Étude von Debussy</title>
+      <link>https://republik.ch/2019/01/11/am-klavier-etude-von-debussy</link>
+      <source url="https://republik.ch/2019/01/11/am-klavier-etude-von-debussy">Die kühnsten Experimente der Musikgeschichte finden wir in Miniaturen, dort haben Komponisten Neues erprobt. Ein Podcast mit dem Pianisten Tomas Bächli.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/Republik_Baechli_Debussy.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 11 Jan 2019 03:44:00 -0000</pubDate>
+      <dc:date>2019-01-11T03:44:00Z</dc:date>
+    </item>
+    <item>
+      <title>Volle Härte!</title>
+      <link>https://republik.ch/2019/01/10/volle-haerte</link>
+      <source url="https://republik.ch/2019/01/10/volle-haerte">Unser heutiger Preisträger möchte, dass die Ärmsten in der Schweiz besser motiviert werden. Denn auch unterhalb des Minimums ist eine Existenz möglich.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Christoph-Schaltegger.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 10 Jan 2019 03:48:00 -0000</pubDate>
+      <dc:date>2019-01-10T03:48:00Z</dc:date>
+    </item>
+    <item>
+      <title>«An der Bar» mit Tiana Angelina Moser</title>
+      <link>https://republik.ch/2019/01/08/an-der-bar-mit-tiana-angelina-moser</link>
+      <source url="https://republik.ch/2019/01/08/an-der-bar-mit-tiana-angelina-moser">«Wir brauchen eine grosse, lösungsorientierte Kraft der Mitte», sagt die starke Frau der Grünliberalen, Tiana Angelina Moser, im Gespräch mit Roger de Weck.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/anderbar/Republik_An-der-Bar_Moser.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 08 Jan 2019 03:50:00 -0000</pubDate>
+      <dc:date>2019-01-08T03:50:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ein Lob der Irritation!</title>
+      <link>https://republik.ch/2019/01/03/ein-lob-der-irritation</link>
+      <source url="https://republik.ch/2019/01/03/ein-lob-der-irritation">Endlich einer, der die Intellektuellen und ihre Wirkung rehabilitiert. Und auf eine derart raffinierte Art. Würdiger kann der erste Preisträger des Jahres nicht sein.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Rudolf-Strahm.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 03 Jan 2019 03:45:00 -0000</pubDate>
+      <dc:date>2019-01-03T03:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Wie Alexander Duma den Kalten Krieg wegprostete</title>
+      <link>https://republik.ch/2019/01/02/wie-alexander-duma-den-kalten-krieg-wegprostete</link>
+      <source url="https://republik.ch/2019/01/02/wie-alexander-duma-den-kalten-krieg-wegprostete">Dervish Dumas Sohn Alexander ist ein junger Mann. Und als der letzte Fetzen des Eisernen Vorhangs fällt, nimmt auch sein Leben eine entscheidende Wende. «Die Ehre Albaniens» – ein wahrer historischer Kurzroman, Teil 2 von 2.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Die-Ehre-Albaniens-2_Rueegg.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 02 Jan 2019 03:50:00 -0000</pubDate>
+      <dc:date>2019-01-02T03:50:00Z</dc:date>
+    </item>
+    <item>
+      <title>Dervish Duma – Gesandter eines Königs ohne Reich</title>
+      <link>https://republik.ch/2019/01/01/wie-dervish-duma-gesandter-eines-koenigs-ohne-reich-wurde</link>
+      <source url="https://republik.ch/2019/01/01/wie-dervish-duma-gesandter-eines-koenigs-ohne-reich-wurde">Die Kriege des 20. Jahrhunderts haben das Gesicht der Welt verändert. Und sie haben das Schicksal einer Familie geprägt. «Die Ehre Albaniens» – ein wahrer historischer Kurzroman, Teil 1 von 2. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Die-Ehre-Albaniens_Rueegg_b.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 01 Jan 2019 03:50:00 -0000</pubDate>
+      <dc:date>2019-01-01T03:50:00Z</dc:date>
+    </item>
+    <item>
+      <title>Kampf um die Wahrheit</title>
+      <link>https://republik.ch/2018/12/27/kampf-um-die-wahrheit</link>
+      <source url="https://republik.ch/2018/12/27/kampf-um-die-wahrheit">Wie die Klimaforschung den Weg in die Politik fand – und dort von mächtigen Gegnern bekämpft wurde: Teil 4 unserer Serie über die Wissenschaftsgeschichte des Klimawandels.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Kampf-um-die-Wahrheit_Bastani_Hess.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 27 Dec 2018 03:50:00 -0000</pubDate>
+      <dc:date>2018-12-27T03:50:00Z</dc:date>
+    </item>
+    <item>
+      <title>«Es entsteht gerade ein neues China»</title>
+      <link>https://republik.ch/2018/12/22/es-entsteht-gerade-ein-neues-china</link>
+      <source url="https://republik.ch/2018/12/22/es-entsteht-gerade-ein-neues-china">Als Gäste der Zürcher Asia Society diskutierten Uli Sigg und Kai Strittmatter über das heutige China.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/Republik_AsiaSociety_Audio_Sigg-Strittmatter.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 22 Dec 2018 03:45:00 -0000</pubDate>
+      <dc:date>2018-12-22T03:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Warum ich als Frau gelesen werde</title>
+      <link>https://republik.ch/2018/12/21/warum-ich-als-frau-gelesen-werde</link>
+      <source url="https://republik.ch/2018/12/21/warum-ich-als-frau-gelesen-werde">Sascha identifiziert sich weder als Frau noch als Mann – und schreibt für uns mehrere Beiträge über sich und Saschas Platz auf der Welt. Teil 1: Eine Verortung.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Sascha_1.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 21 Dec 2018 03:45:00 -0000</pubDate>
+      <dc:date>2018-12-21T03:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Gegen Flurschaden</title>
+      <link>https://republik.ch/2018/12/20/gegen-flurschaden</link>
+      <source url="https://republik.ch/2018/12/20/gegen-flurschaden">Heldinnen haben zwei Funktionen: Sie tun Gutes – und sie provozieren Menschen, die das nicht ertragen können. Auch Letzteres ist verdienstvoll.</source>
+      <enclosure url="http://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Greta-Thunberg.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 20 Dec 2018 03:32:00 -0000</pubDate>
+      <dc:date>2018-12-20T03:32:00Z</dc:date>
+    </item>
+    <item>
+      <title>Tödliches Tauwetter</title>
+      <link>https://republik.ch/2018/12/17/geschichte-der-klimaforschung-teil-3</link>
+      <source url="https://republik.ch/2018/12/17/geschichte-der-klimaforschung-teil-3">Wie herauskam, dass das Klima sehr empfindlich auf ein kleines bisschen Gas reagiert: Teil 3 unserer Serie über die Wissenschaftsgeschichte des Klimawandels.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Toedliches_Tauwetter__Bastani_Hess.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 17 Dec 2018 03:45:00 -0000</pubDate>
+      <dc:date>2018-12-17T03:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>«An der Bar» mit Monika Bolliger</title>
+      <link>https://republik.ch/2018/12/13/an-der-bar-mit-monika-bolliger</link>
+      <source url="https://republik.ch/2018/12/13/an-der-bar-mit-monika-bolliger">Saudiarabien, Kronprinz Muhammad bin Salman, der Mord an Jamal Khashoggi, die Hoffnung auf Frieden in Syrien: Nahost-Expertin Monika Bolliger im Gespräch mit Roger de Weck.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/anderbar/Republik_An-der-Bar_Bolliger.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 13 Dec 2018 03:42:00 -0000</pubDate>
+      <dc:date>2018-12-13T03:42:00Z</dc:date>
+    </item>
+    <item>
+      <title>Der Klima-Code</title>
+      <link>https://republik.ch/2018/12/11/der-klima-code</link>
+      <source url="https://republik.ch/2018/12/11/der-klima-code">Wie der globale Temperaturanstieg von der blossen Theorie zur mess- und modellierbaren Realität wurde: Teil 2 unserer Serie über die Wissenschaftsgeschichte des Klimawandels.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Der-Klima-Code__Bastani_Hess.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 11 Dec 2018 03:45:00 -0000</pubDate>
+      <dc:date>2018-12-11T03:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Am Klavier – Wehrli variabel</title>
+      <link>https://republik.ch/2018/12/07/am-klavier-wehrli-variabel</link>
+      <source url="https://republik.ch/2018/12/07/am-klavier-wehrli-variabel">Die kühnsten Experimente der Musikgeschichte finden wir in musikalischen Miniaturen. Dort haben Komponisten Neues erprobt. Ein Podcast mit dem Pianisten Tomas Bächli. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/Republik_Baechli_Wehrli.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 07 Dec 2018 03:38:00 -0000</pubDate>
+      <dc:date>2018-12-07T03:38:00Z</dc:date>
+    </item>
+    <item>
+      <title>Die Mutter aller Reden</title>
+      <link>https://republik.ch/2018/12/06/die-mutter-aller-reden</link>
+      <source url="https://republik.ch/2018/12/06/die-mutter-aller-reden">Wer hätte gedacht, dass man im Bundeshaus lernen könnte, wie man eine gute Rede hält? Gestern war es so, dank unserem Preisträger.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Johann-Schneider-Ammann.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 06 Dec 2018 03:38:00 -0000</pubDate>
+      <dc:date>2018-12-06T03:38:00Z</dc:date>
+    </item>
+    <item>
+      <title>Geheimnisvolle Strahlen</title>
+      <link>https://republik.ch/2018/12/05/geheimnisvolle-strahlen</link>
+      <source url="https://republik.ch/2018/12/05/geheimnisvolle-strahlen">Wie Forscher im 19. Jahrhundert die Erdwärme untersuchten und dabei den Treibhauseffekt entdeckten: Teil 1 unserer Serie über die Wissenschaftsgeschichte des Klimawandels.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Geheimnisvolle-Strahlen__Bastani_Hess.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 05 Dec 2018 03:45:00 -0000</pubDate>
+      <dc:date>2018-12-05T03:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>«An der Bar» mit der Politologin Cloé Jans</title>
+      <link>https://republik.ch/2018/11/30/an-der-bar-mit-cloe-jans</link>
+      <source url="https://republik.ch/2018/11/30/an-der-bar-mit-cloe-jans">Warum die Erdrutsche in Europa? Der Aufstieg der Populisten? Was tut sich in der Schweiz? Und: Wieso wählen deutlich mehr Frauen links?</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_An-der-Bar_Jans.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 30 Nov 2018 10:02:00 -0000</pubDate>
+      <dc:date>2018-11-30T10:02:00Z</dc:date>
+    </item>
+    <item>
+      <title>Der Sex, das Kino, die Revolution</title>
+      <link>https://republik.ch/2018/11/29/der-sex-das-kino-die-revolution</link>
+      <source url="https://republik.ch/2018/11/29/der-sex-das-kino-die-revolution">Unser Preisträger lotet die Abgründe von Gesellschafts- und Machtsystemen aus. Und setzt sie ins Bild. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Bernardo-Bertolucci.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 29 Nov 2018 03:45:00 -0000</pubDate>
+      <dc:date>2018-11-29T03:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Verrat in der Moschee</title>
+      <link>https://republik.ch/2018/11/22/verrat-in-der-moschee</link>
+      <source url="https://republik.ch/2018/11/22/verrat-in-der-moschee">Eine verdeckte Recherche in Winterthurs Islamistenszene fliegt auf. Der Informant fürchtet um sein Leben, die jungen Muslime wittern eine Verschwörung. Was geschah an einem Novemberabend vor zwei Jahren in der An’Nur-Moschee?</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Verrat-in-der-Moschee_Bluelle-Hanimann.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 22 Nov 2018 03:56:00 -0000</pubDate>
+      <dc:date>2018-11-22T03:56:00Z</dc:date>
+    </item>
+    <item>
+      <title>Auf den Schwingen des Doppeladlers</title>
+      <link>https://republik.ch/2018/11/22/auf-den-schwingen-des-doppeladlers</link>
+      <source url="https://republik.ch/2018/11/22/auf-den-schwingen-des-doppeladlers">Wenn Menschen verschiedener Herkunft gemeinsam für eine Sache kämpfen, hat das Applaus verdient. Solange sie nicht verlieren.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Fussballnationalmannschaft.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 22 Nov 2018 03:44:00 -0000</pubDate>
+      <dc:date>2018-11-22T03:44:00Z</dc:date>
+    </item>
+    <item>
+      <title>Die Besänftigung der Welt</title>
+      <link>https://republik.ch/2018/11/15/die-besaenftigung-der-welt</link>
+      <source url="https://republik.ch/2018/11/15/die-besaenftigung-der-welt">Preise sind ungerecht. Vor allem Jurys bekommen nie welche. Höchste Zeit, das zu ändern.</source>
+      <enclosure url="http://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Jury-Schweizer-Buchpreis-2.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 15 Nov 2018 03:35:00 -0000</pubDate>
+      <dc:date>2018-11-15T03:35:00Z</dc:date>
+    </item>
+    <item>
+      <title>«An der Bar» mit Ignazio Cassis</title>
+      <link>https://republik.ch/2018/11/09/an-der-bar-mit-ignazio-cassis</link>
+      <source url="https://republik.ch/2018/11/09/an-der-bar-mit-ignazio-cassis">Mit der EU «können wir nicht ein gemeinsames Problem lösen, indem wir sagen: Über das Problem reden wir nicht»: Ein Jahr im Amt, und Aussenminister Cassis ist angriffiger denn je.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/anderbar/Republik_An-der-Bar_Cassis.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 09 Nov 2018 03:45:00 -0000</pubDate>
+      <dc:date>2018-11-09T03:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Politisches Stretching</title>
+      <link>https://republik.ch/2018/11/08/politisches-stretching</link>
+      <source url="https://republik.ch/2018/11/08/politisches-stretching">Flexibilität ist eine verkannte Qualität in der Politik – zu Unrecht. Wir zollen einer Frau Respekt, die beweist, dass unterschiedliche Standpunkte auch gleichzeitig vertreten werden können.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Elisabeth-Schneider-Schneiter.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 08 Nov 2018 03:38:00 -0000</pubDate>
+      <dc:date>2018-11-08T03:38:00Z</dc:date>
+    </item>
+    <item>
+      <title>Der Friedensgeier</title>
+      <link>https://republik.ch/2018/11/02/der-friedensgeier</link>
+      <source url="https://republik.ch/2018/11/02/der-friedensgeier">Wie Syrer und Israelis, Rebellen und Tierschützer gemeinsam einen Geier retten, der zwischen feindlichen Linien gestrandet ist – es klingt wie ein modernes Märchen. Doch die Geschichte ist wahr. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Der-Friedensgeier_Hess.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 02 Nov 2018 03:45:00 -0000</pubDate>
+      <dc:date>2018-11-02T03:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Am Klavier – Bagatelle von Beethoven</title>
+      <link>https://republik.ch/2018/11/02/am-klavier-bagatelle-von-beethoven</link>
+      <source url="https://republik.ch/2018/11/02/am-klavier-bagatelle-von-beethoven">Die kühnsten Experimente der Musikgeschichte finden wir in musikalischen Miniaturen, dort haben Komponisten Neues erprobt. Ein Podcast mit dem Pianisten Tomas Bächli.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/Republik_Baechli-Beethoven.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 02 Nov 2018 03:25:00 -0000</pubDate>
+      <dc:date>2018-11-02T03:25:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ikone des guten Stils</title>
+      <link>https://republik.ch/2018/11/01/ikone-des-guten-stils</link>
+      <source url="https://republik.ch/2018/11/01/ikone-des-guten-stils">Diesen Preis hätten wir nie verleihen wollen. Jetzt tun wir es von ganzem, bangem Herzen.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Angela-Merkel.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 01 Nov 2018 03:40:00 -0000</pubDate>
+      <dc:date>2018-11-01T03:40:00Z</dc:date>
+    </item>
+    <item>
+      <title>Der Idiot von Palermo</title>
+      <link>https://republik.ch/2018/10/26/der-idiot-von-palermo</link>
+      <source url="https://republik.ch/2018/10/26/der-idiot-von-palermo">Die grösste Stadt Siziliens stemmt sich gegen die Populisten in Rom. Zumindest ihr Bürgermeister. Leoluca Orlando kann keinen Schritt ohne Leibwächter tun, doch er nimmt sich seine Freiheit.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Der-Idiot-von-Palermo_Cimmino_.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 26 Oct 2018 02:45:00 -0000</pubDate>
+      <dc:date>2018-10-26T02:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Gegen die Logik</title>
+      <link>https://republik.ch/2018/10/25/gegen-die-logik</link>
+      <source url="https://republik.ch/2018/10/25/gegen-die-logik">Gleich drei Sympathieträger werden heute geehrt. Und dabei geraten wir tief ins Reich der Kinderbücher – und der Warenhäuser.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Elmar-Frederick-Manor.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 25 Oct 2018 02:38:00 -0000</pubDate>
+      <dc:date>2018-10-25T02:38:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ein Akt der Freiheit</title>
+      <link>https://republik.ch/2018/10/18/ein-akt-der-freiheit</link>
+      <source url="https://republik.ch/2018/10/18/ein-akt-der-freiheit">Das Opernhaus Zürich arbeitet mit einem Regisseur zusammen, der in Russland unter Hausarrest steht.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Andreas-Homoki.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 18 Oct 2018 02:52:00 -0000</pubDate>
+      <dc:date>2018-10-18T02:52:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ein Jahr #MeToo</title>
+      <link>https://republik.ch/2018/10/15/ein-jahr-metoo</link>
+      <source url="https://republik.ch/2018/10/15/ein-jahr-metoo">Vor einem Jahr ging #MeToo viral. Grund genug, an einer Podiumsdiskussion über «Gewalt an Frauen – und ihre gesellschaftlichen Folgen» zu reden.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/Republik_Kosmos_MeToo181015_live.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 15 Oct 2018 02:38:00 -0000</pubDate>
+      <dc:date>2018-10-15T02:38:00Z</dc:date>
+    </item>
+    <item>
+      <title>Warum wir Geldpolitik wichtig finden</title>
+      <link>https://republik.ch/2018/10/15/wir-leben-immer-noch-mit-den-auswirkungen-der-finanzkrise</link>
+      <source url="https://republik.ch/2018/10/15/wir-leben-immer-noch-mit-den-auswirkungen-der-finanzkrise">Wie steckt hinter der Idee von Simon Schmid und Daniel Kaufmann, eine Serie über Geldpolitik zu machen? Warum ist das Thema aktuell, und wie geht es weiter? Ihr Gespräch im Audio-Podcast. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/Republik_Geldpolitik_Schmid_Achermann.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 15 Oct 2018 02:30:00 -0000</pubDate>
+      <dc:date>2018-10-15T02:30:00Z</dc:date>
+    </item>
+    <item>
+      <title>Wir ziehen den Kardinalshut</title>
+      <link>https://republik.ch/2018/10/11/wir-ziehen-den-kardinalshut</link>
+      <source url="https://republik.ch/2018/10/11/wir-ziehen-den-kardinalshut">Der Vatikan übt sich in der Wiederbelebung der Inquisition. Endlich kümmert sich jemand um abendländische Traditionen. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Giuseppe-Versaldi.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 11 Oct 2018 02:34:00 -0000</pubDate>
+      <dc:date>2018-10-11T02:34:00Z</dc:date>
+    </item>
+    <item>
+      <title>Errichtet China eine Big-Data-Diktatur? Nein.</title>
+      <link>https://republik.ch/2018/10/04/errichtet-china-die-erste-big-data-diktatur-des-21-jahrhunderts-nein</link>
+      <source url="https://republik.ch/2018/10/04/errichtet-china-die-erste-big-data-diktatur-des-21-jahrhunderts-nein">Die Republik hat wiederholt den weltweiten Datenkapitalismus und die zunehmende Überwachung durch Big Data kritisiert. China plant ab 2020 ein solches Kontrollsystem. Orwell? Nein, Konfuzius, sagt unser Gastautor.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_China-Big-Data_Hernig.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 04 Oct 2018 02:50:00 -0000</pubDate>
+      <dc:date>2018-10-04T02:50:00Z</dc:date>
+    </item>
+    <item>
+      <title>Am Klavier – Obuchows Ikone</title>
+      <link>https://republik.ch/2018/10/01/am-klavier-obouchows-ikone</link>
+      <source url="https://republik.ch/2018/10/01/am-klavier-obouchows-ikone">Die kühnsten Experimente der Musikgeschichte finden wir in musikalischen Miniaturen, dort haben Komponisten Neues erprobt. Ein Podcast mit dem Pianisten Tomas Bächli.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/Republik_Baechli-Obouchov.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 01 Oct 2018 02:35:00 -0000</pubDate>
+      <dc:date>2018-10-01T02:35:00Z</dc:date>
+    </item>
+    <item>
+      <title>Die Kunst der Verweigerung</title>
+      <link>https://republik.ch/2018/09/27/die-kunst-der-verweigerung</link>
+      <source url="https://republik.ch/2018/09/27/die-kunst-der-verweigerung">Diese Woche wird eine Frau geehrt, die üblicherweise selber Preise verleiht, den Preis der Republik jedoch dafür bekommt, dies für einmal nicht getan zu haben.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Jaqueline-Fehr.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 27 Sep 2018 02:34:00 -0000</pubDate>
+      <dc:date>2018-09-27T02:34:00Z</dc:date>
+    </item>
+    <item>
+      <title>Die vorletzten Tage der Menschheit</title>
+      <link>https://republik.ch/2018/09/25/die-vorletzten-tage-der-menschheit</link>
+      <source url="https://republik.ch/2018/09/25/die-vorletzten-tage-der-menschheit">In Österreich gibt es einen Ort, in dem einmal im Jahr nachgedacht wird: das Bergdorf Alpbach. Hier versuchen Intellektuelle einen Sommer lang, die Welt zu retten – bis die Elite aufkreuzt.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Altbach_Khorsand.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 25 Sep 2018 02:45:00 -0000</pubDate>
+      <dc:date>2018-09-25T02:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Politisches Gemüse</title>
+      <link>https://republik.ch/2018/09/20/politisches-gemuese</link>
+      <source url="https://republik.ch/2018/09/20/politisches-gemuese">Wir ehren diesmal eine Politikerin, dank deren Initiative die Diskussionen um unsere Ernährung endlich auf die richtige Ebene gehoben werden: die des Staates.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Maya-Graf.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 20 Sep 2018 02:38:00 -0000</pubDate>
+      <dc:date>2018-09-20T02:38:00Z</dc:date>
+    </item>
+    <item>
+      <title>«Sie dürfen mich nicht verharmlosen»</title>
+      <link>https://republik.ch/2018/09/19/sie-duerfen-mich-nicht-verharmlosen</link>
+      <source url="https://republik.ch/2018/09/19/sie-duerfen-mich-nicht-verharmlosen">SVP-Nationalrat und «Weltwoche»-Chef Roger Köppel und sein nicht autorisierter Biograf Daniel Ryser: Zwei Männer, die Respekt, aber kaum Verständnis füreinander haben. Das Gespräch im Audio-Podcast.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/Republik_Ryser-Koeppel_Bruderer.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 19 Sep 2018 13:06:51 -0000</pubDate>
+      <dc:date>2018-09-19T13:06:51.988Z</dc:date>
+    </item>
+    <item>
+      <title>Wer bist du, Vater?</title>
+      <link>https://republik.ch/2018/09/18/wer-bist-du-vater</link>
+      <source url="https://republik.ch/2018/09/18/wer-bist-du-vater">Ein 45-minütiges Audiofeature von Michelle Akanji als persönliche Zeitreise mit ihr und ihrem Vater, die von Nigeria über die USA in die Schweiz führt. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/Republik_Vaterland_Akanji.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 18 Sep 2018 02:45:00 -0000</pubDate>
+      <dc:date>2018-09-18T02:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Preis der Republik: And the winner is ...</title>
+      <link>https://republik.ch/2018/09/13/and-the-winner-is</link>
+      <source url="https://republik.ch/2018/09/13/and-the-winner-is">Geehrt wird zum Auftakt ein grosser Anthropologe und Anarchist. No Bullshit!</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_01.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 13 Sep 2018 02:45:00 -0000</pubDate>
+      <dc:date>2018-09-13T02:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Die Salondame</title>
+      <link>https://republik.ch/2018/09/12/die-salondame</link>
+      <source url="https://republik.ch/2018/09/12/die-salondame">Ekstase ist ihr Metier. Lust am Leben ihre Antwort auf Unterdrückung und Ausgrenzung. Susanne Bartsch, aufgewachsen bei Bern, ist ein Star des New Yorker Nachtlebens. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Salondame_Conzett.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 12 Sep 2018 02:45:00 -0000</pubDate>
+      <dc:date>2018-09-12T02:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Warum Island keine eigene Verfassung hat</title>
+      <link>https://republik.ch/2018/09/05/warum-island-keine-eigene-verfassung-hat-eine-nordische-saga</link>
+      <source url="https://republik.ch/2018/09/05/warum-island-keine-eigene-verfassung-hat-eine-nordische-saga">Nach der Finanzkrise wagten die Isländer eine weltweite Premiere: Sie schrieben ihre Verfassung neu – im Internet. Das Projekt scheiterte. Weil das Establishment zurückschlug. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Island-Saga_Fichter-Hess.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 05 Sep 2018 02:45:00 -0000</pubDate>
+      <dc:date>2018-09-05T02:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Podcast am Klavier: Italienische Komödie</title>
+      <link>https://republik.ch/2018/09/02/am-klavier-italienische-komoedie</link>
+      <source url="https://republik.ch/2018/09/02/am-klavier-italienische-komoedie">Die kühnsten Experimente der Musikgeschichte finden wir in musikalischen Miniaturen, dort haben Komponisten Neues erprobt. Ein Podcast mit dem Pianisten Tomas Bächli.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/Republik_Baechli_Satie.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 02 Sep 2018 17:50:00 -0000</pubDate>
+      <dc:date>2018-09-02T17:50:00Z</dc:date>
+    </item>
+    <item>
+      <title>Unfassbar mächtige Verbündete</title>
+      <link>https://republik.ch/2018/08/30/unfassbar-maechtige-verbuendete</link>
+      <source url="https://republik.ch/2018/08/30/unfassbar-maechtige-verbuendete">Wie LSD heute die Psychiatrie verändern könnte – und warum das ausgerechnet in der nüchternen Schweiz geschieht. Teil III dieser Serie. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_LSD_3_Hess.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 30 Aug 2018 02:40:00 -0000</pubDate>
+      <dc:date>2018-08-30T02:40:00Z</dc:date>
+    </item>
+    <item>
+      <title>Was ist das Ich, wenn es so leicht zerbirst?</title>
+      <link>https://republik.ch/2018/08/29/was-ist-das-ich-wenn-es-so-leicht-zerbirst</link>
+      <source url="https://republik.ch/2018/08/29/was-ist-das-ich-wenn-es-so-leicht-zerbirst">Wie LSD unsere Vorstellung von der Psyche verändert hat – und unser Bild vom Menschen. Teil II dieser Serie.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_LSD_2_Hess.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 29 Aug 2018 02:40:00 -0000</pubDate>
+      <dc:date>2018-08-29T02:40:00Z</dc:date>
+    </item>
+    <item>
+      <title>Das heilige Feuer</title>
+      <link>https://republik.ch/2018/08/28/teil-i-das-heilige-feuer</link>
+      <source url="https://republik.ch/2018/08/28/teil-i-das-heilige-feuer">Was ein katholischer Orden mit der Entdeckung von LSD zu tun hat. Und warum jahrhundertealte Gemälde einen Höllentrip zeigen. Teil I unserer Serie. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_LSD_1_Rueegg.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 28 Aug 2018 02:45:00 -0000</pubDate>
+      <dc:date>2018-08-28T02:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ein Tal bewegt sich</title>
+      <link>https://republik.ch/2018/08/23/ein-tal-bewegt-sich</link>
+      <source url="https://republik.ch/2018/08/23/ein-tal-bewegt-sich">Der Bergsturz von Bondo war eine Katastrophe. Genau ein Jahr später zeigt sich: Er war auch ein Weckruf für das Bergell. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Ein-Tal-bewegt-sich_Bundi.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 23 Aug 2018 02:45:00 -0000</pubDate>
+      <dc:date>2018-08-23T02:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Schweiz, du gelobtes Land der Parias</title>
+      <link>https://republik.ch/2018/08/01/schweiz-du-gelobtes-land-der-parias</link>
+      <source url="https://republik.ch/2018/08/01/schweiz-du-gelobtes-land-der-parias">Vor knapp einem Jahr kam unsere Autorin in die Schweiz. Nun hält sie die Rede zur Bundesfeier. Hommage einer Wienerin. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_nationalfeiertag_Solmaz_final3.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 01 Aug 2018 02:45:00 -0000</pubDate>
+      <dc:date>2018-08-01T02:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Aus dem Setzkasten der Fantasie</title>
+      <link>https://republik.ch/2018/07/02/aus-dem-setzkasten-der-fantasie</link>
+      <source url="https://republik.ch/2018/07/02/aus-dem-setzkasten-der-fantasie">Von Qual und Genuss ist die Rede, wenn es um die Literatur des Grazer Dichters und Schriftstellers Clemens J. Setz geht. Jetzt tritt er im Rahmen des Zürcher Open-Air-Literaturfestivals auf. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Repubklik_Aus_dem_Setzkasten_der_Fantasie_Zweifel.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 02 Jul 2018 02:45:00 -0000</pubDate>
+      <dc:date>2018-07-02T02:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Mannaggia la miseria!</title>
+      <link>https://republik.ch/2018/06/22/mannaggia-la-miseria</link>
+      <source url="https://republik.ch/2018/06/22/mannaggia-la-miseria">Eine Fussball-Weltmeisterschaft ohne Italien ist wie ein Rendez-vous, zu dem der Schwarm nicht erscheint. Davon geht die Welt nicht unter. Aber weh tuts trotzdem. Dabei war es mal so schön. Vor langer Zeit. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_mannagia-la-miseria_Cimmino.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 22 Jun 2018 02:35:00 -0000</pubDate>
+      <dc:date>2018-06-22T02:35:00Z</dc:date>
+    </item>
+    <item>
+      <title>Die Geige für das gute Gewissen</title>
+      <link>https://republik.ch/2018/06/15/die-geige-fuer-das-gute-gewissen</link>
+      <source url="https://republik.ch/2018/06/15/die-geige-fuer-das-gute-gewissen">Schweizer Fichte statt artengeschütztes Ebenholz für die Geige: ETH-Forscher haben eine Lösung gefunden, heimische Hölzer zu pressen und zu imprägnieren, damit sie hart wie Ebenholz werden. «Klingt gut», sagen Geigenbauer und Musiker.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Die-Geige_Hille.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 15 Jun 2018 02:45:00 -0000</pubDate>
+      <dc:date>2018-06-15T02:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Das Wunder von Venedig</title>
+      <link>https://republik.ch/2018/06/08/das-wunder-von-venedig</link>
+      <source url="https://republik.ch/2018/06/08/das-wunder-von-venedig">Die Schweiz feiert dieses Jahr einen überwältigenden Erfolg an der weltweit wichtigsten Architekturausstellung. Ein begeisterter Bericht.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Das-Wunder-von-Venedig_Ursprung.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 08 Jun 2018 02:45:00 -0000</pubDate>
+      <dc:date>2018-06-08T02:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Pokerface</title>
+      <link>https://republik.ch/2018/06/04/pokerface</link>
+      <source url="https://republik.ch/2018/06/04/pokerface">Maureen Blöchlinger ist die beste Pokerspielerin der Schweiz. Sie sagt: Wer Leute auf nationale Online-Spielseiten zwingen will, hat den Markt nicht verstanden. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Pokerface_Kuehni.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 04 Jun 2018 02:45:00 -0000</pubDate>
+      <dc:date>2018-06-04T02:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Kapitalschmelze am Gletscherrand</title>
+      <link>https://republik.ch/2018/05/29/kapitalschmelze-am-gletscherrand</link>
+      <source url="https://republik.ch/2018/05/29/kapitalschmelze-am-gletscherrand">Ein Museum im Oberwallis sollte Zehntausende anlocken. Sie blieben aus. Doch die Gemeinde Naters macht weiter. Koste es, was es wolle.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Kapitalschmelze-am-Gletscherrand_Rueegg.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 29 May 2018 02:45:00 -0000</pubDate>
+      <dc:date>2018-05-29T02:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Russlands Staatsfeind Nummer eins</title>
+      <link>https://republik.ch/2018/05/11/russlands-staatsfeind-nummer-eins</link>
+      <source url="https://republik.ch/2018/05/11/russlands-staatsfeind-nummer-eins">Das russische Internet steht kopf, seitdem Moskau versucht, den Kurznachrichtendienst Telegram zu blockieren. Wer ist Telegram-Gründer Pawel Durow, der als «russischer Zuckerberg» gilt?</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Durow_Brunner.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 11 May 2018 02:45:00 -0000</pubDate>
+      <dc:date>2018-05-11T02:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>«Wir sind die, auf die wir gewartet haben»</title>
+      <link>https://republik.ch/2018/05/08/wir-sind-die-auf-die-wir-gewartet-haben</link>
+      <source url="https://republik.ch/2018/05/08/wir-sind-die-auf-die-wir-gewartet-haben">Mittendrin im Aufstand des Anstands. Was bringt der slowakische Frühling? Die Schriftstellerin Irena Brežná hat ihr Herkunftsland besucht. Eine Reportage.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Aufstand-Slowakei_Brezna.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 08 May 2018 02:40:00 -0000</pubDate>
+      <dc:date>2018-05-08T02:40:00Z</dc:date>
+    </item>
+    <item>
+      <title>Das Macron-Paradox</title>
+      <link>https://republik.ch/2018/05/02/das-macron-paradox</link>
+      <source url="https://republik.ch/2018/05/02/das-macron-paradox">Der französische Präsident Emmanuel Macron ist seit einem Jahr im Amt. Enttäuscht er? Überzeugt er? Die Antwort lautet: beides. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Das-Macron-Paradox_Binswanger.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 02 May 2018 02:45:00 -0000</pubDate>
+      <dc:date>2018-05-02T02:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Väterland</title>
+      <link>https://republik.ch/2018/04/30/vaeterland</link>
+      <source url="https://republik.ch/2018/04/30/vaeterland">Familie ist in der Schweiz Frauensache. Oder? Vier Familienporträts aus der Perspektive der Samenspender und Financiers. Der Väter.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Vaeterland_Khorsand.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 30 Apr 2018 02:45:00 -0000</pubDate>
+      <dc:date>2018-04-30T02:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Warum wir Geschichte neu denken sollten</title>
+      <link>https://republik.ch/2018/04/23/warum-wir-geschichte-neu-denken-sollten</link>
+      <source url="https://republik.ch/2018/04/23/warum-wir-geschichte-neu-denken-sollten">Die Vergangenheit der Schweiz spielte sich nie nur auf nationalem Territorium ab. Sondern in verschiedenen Netzwerken mit zahlreichen Aussenstationen auf der ganzen Welt. Es braucht neue Perspektiven auf unsere Geschichte.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Geschichte-neu-denken_Schaer-Hoechner.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 23 Apr 2018 02:45:00 -0000</pubDate>
+      <dc:date>2018-04-23T02:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Die Aufpasser</title>
+      <link>https://republik.ch/2018/04/13/mord-auf-malta-teil-3</link>
+      <source url="https://republik.ch/2018/04/13/mord-auf-malta-teil-3">Malta ist ein gespaltenes, dicht besiedeltes Land. Das heisst auch: Alle passen aufeinander auf – mit Ratschlägen, Schulterklopfen und Drohungen. «Mord auf Malta», Teil drei.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Mord-auf-Malta-03_Gruhnwald.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 13 Apr 2018 02:45:00 -0000</pubDate>
+      <dc:date>2018-04-13T02:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Mark, wir hätten da noch ein paar Fragen</title>
+      <link>https://republik.ch/2018/04/11/mark-wir-haetten-da-noch-ein-paar-fragen</link>
+      <source url="https://republik.ch/2018/04/11/mark-wir-haetten-da-noch-ein-paar-fragen">Mark Zuckerberg muss vor dem US-Kongress aussagen. Aber Journalisten fassen ihn erstaunlich sanft an. Fünf Punkte, bei denen wir gerne mehr gewusst hätten. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Mark-Zuckerberg-Fragen_Fichter.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 11 Apr 2018 02:45:00 -0000</pubDate>
+      <dc:date>2018-04-11T02:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Falsche Fährten</title>
+      <link>https://republik.ch/2018/04/10/mord-auf-malta-teil-2</link>
+      <source url="https://republik.ch/2018/04/10/mord-auf-malta-teil-2">Wer sind die Drahtzieher? Nach wochenlangen Recherchen wissen wir: Die Mörder von Journalistin Daphne Caruana Galizia wurden angestiftet – und das nicht vom Wirtschaftsminister. Unterwegs in einem Bombenparadies: «Mord auf Malta», Teil zwei.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Mord-auf-Malta-02_Gruhnwald.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 10 Apr 2018 02:30:00 -0000</pubDate>
+      <dc:date>2018-04-10T02:30:00Z</dc:date>
+    </item>
+    <item>
+      <title>Die Insel des Schweigens</title>
+      <link>https://republik.ch/2018/04/09/mord-auf-malta-teil-1</link>
+      <source url="https://republik.ch/2018/04/09/mord-auf-malta-teil-1">Die Ermordung der maltesischen Journalistin Daphne Caruana Galizia löste weltweit Entsetzen aus. Was geht auf Malta vor? Republik-Reporter stossen auf etliche Mordmotive, seltsame Zufälle – und Spuren in die Schweiz. «Mord auf Malta», Teil eins.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Mord-auf-Malta-01_Gruhnwald.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 09 Apr 2018 02:40:00 -0000</pubDate>
+      <dc:date>2018-04-09T02:40:00Z</dc:date>
+    </item>
+    <item>
+      <title>Die Demokratie-Hacker aus Argentinien</title>
+      <link>https://republik.ch/2018/04/05/die-demokratie-hacker-aus-argentinien</link>
+      <source url="https://republik.ch/2018/04/05/die-demokratie-hacker-aus-argentinien">Wie eine Gruppe junger Tech-Unternehmer die Welt verändern will – und auf welche Widersprüche sie dabei stösst. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Die-Demokratiehacker-aus-Argentinien_Fichter.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 05 Apr 2018 02:45:00 -0000</pubDate>
+      <dc:date>2018-04-05T02:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Die 100-Punkte-Nase</title>
+      <link>https://republik.ch/2018/03/30/die-100-punkte-nase</link>
+      <source url="https://republik.ch/2018/03/30/die-100-punkte-nase">Eine Französischlehrerin, ein kleiner Hund und glückliche Fügungen: Wie uns Robert Parker den Wert des Weins näherbrachte.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Die-100-Punkte-Nase_Ruegg.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 30 Mar 2018 02:35:00 -0000</pubDate>
+      <dc:date>2018-03-30T02:35:00Z</dc:date>
+    </item>
+    <item>
+      <title>Die neuen Stadtkinder</title>
+      <link>https://republik.ch/2018/03/13/die-neuen-stadtkinder</link>
+      <source url="https://republik.ch/2018/03/13/die-neuen-stadtkinder">In der Stadt Zürich werden so viele Kinder geboren wie seit den Sechzigerjahren nicht mehr. Sind Städte kinderfreundlicher geworden?</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Die-neuen-Stadtkinder_Ruegg.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 13 Mar 2018 03:45:00 -0000</pubDate>
+      <dc:date>2018-03-13T03:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Wildfang im Südwestatlantik</title>
+      <link>https://republik.ch/2018/02/28/wildfang-im-suedwestatlantik</link>
+      <source url="https://republik.ch/2018/02/28/wildfang-im-suedwestatlantik">Die Jagd um den Tintenfisch Illex argentinus. Eine Saga aus den rauen Wassern Patagoniens in zwanzig Miniaturen. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Wildfang-im-Suedwestatlantik_Hoechner.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 28 Feb 2018 03:45:00 -0000</pubDate>
+      <dc:date>2018-02-28T03:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Warum Österreich rechts tickt</title>
+      <link>https://republik.ch/2018/02/22/oesterreich-tickt-rechts</link>
+      <source url="https://republik.ch/2018/02/22/oesterreich-tickt-rechts">Liegt an den Eliten und am Boulevard? Falsch. Es liegt an den Wählerinnen und Wählern. Eine Beschämung in acht Typen.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Boesterreicher_Khorsand.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 22 Feb 2018 03:40:00 -0000</pubDate>
+      <dc:date>2018-02-22T03:40:00Z</dc:date>
+    </item>
+    <item>
+      <title>Die Seidenstrasse des Geldes</title>
+      <link>https://republik.ch/2018/02/08/die-seidenstrasse-des-geldes</link>
+      <source url="https://republik.ch/2018/02/08/die-seidenstrasse-des-geldes">An den Währungsmärkten bahnt sich eine Zeitenwende an: Der Yuan soll den Dollar ablösen. Kann das gut gehen?</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/republik_seidenstrasse_schmid.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 08 Feb 2018 03:45:00 -0000</pubDate>
+      <dc:date>2018-02-08T03:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Das Milliardenloch</title>
+      <link>https://republik.ch/2018/02/06/das-milliardenloch</link>
+      <source url="https://republik.ch/2018/02/06/das-milliardenloch">Einst belächelt, steht der Tunnel an der Rosengartenstrasse kurz davor, Gesetz zu werden. Aber warum fällt über das Milliardenprojekt im derzeitigen Wahlkampf in Zürich kein Wort?</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/republik_milliardenloch_rueegg.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 06 Feb 2018 03:40:00 -0000</pubDate>
+      <dc:date>2018-02-06T03:40:00Z</dc:date>
+    </item>
+    <item>
+      <title>Der digitale Diktator</title>
+      <link>https://republik.ch/2018/02/01/der-digitale-diktator</link>
+      <source url="https://republik.ch/2018/02/01/der-digitale-diktator">Die 5-Sterne-Bewegung versprach vor neun Jahren die radikale digitale Demokratie. Das Resultat ist ein autoritärer Kontrollapparat. Ein Blick in die digitale Anatomie der populärsten Partei Italiens. </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/republik_diktator_fichter.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 01 Feb 2018 03:30:00 -0000</pubDate>
+      <dc:date>2018-02-01T03:30:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ein Lächeln in Peking</title>
+      <link>https://republik.ch/2018/01/26/ein-laecheln-in-peking</link>
+      <source url="https://republik.ch/2018/01/26/ein-laecheln-in-peking">Die Augen der Welt sind auf Donald Trump gerichtet, der heute am WEF in Davos auftritt. Nach einem Jahr Trump als US-Präsident ist klar: Für China ist er ein gigantisches Geschenk.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/republik_laecheln_dittli.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 26 Jan 2018 03:40:00 -0000</pubDate>
+      <dc:date>2018-01-26T03:40:00Z</dc:date>
+    </item>
+    <item>
+      <title>Eine kurze Geschichte des Lasters</title>
+      <link>https://republik.ch/2018/01/18/eine-kurze-geschichte-des-lasters</link>
+      <source url="https://republik.ch/2018/01/18/eine-kurze-geschichte-des-lasters">Stop Aids! Nicht rauchen! Vegan essen! Länger leben! Der Gegner aller vernünftigen Kampagnen ist der denkbar mächtigste: die menschliche Gier. Denn Exzess, Sex und Risiko sind nicht Nebengeräusche der westlichen Zivilisation. Sie sind ihr Motor.  </source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/republik_laster_kuehni.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 18 Jan 2018 05:35:00 -0000</pubDate>
+      <dc:date>2018-01-18T05:35:00Z</dc:date>
+    </item>
+    <item>
+      <title>Klingelt sein Handy, gehts um Leben und Tod</title>
+      <link>https://republik.ch/2018/01/14/musssie-zerai-anruf-auf-leben-und-tod</link>
+      <source url="https://republik.ch/2018/01/14/musssie-zerai-anruf-auf-leben-und-tod">Wenn Mussie Zerai einen Anruf verpasst, geht vielleicht ein Boot mit Flüchtlingen unter. Unterwegs mit dem Priester, der 150’000 Leben rettete. Und den Staatsanwälte für einen Menschenhändler halten.</source>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/republik_pfarrer_hanimann.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 14 Jan 2018 11:00:00 -0000</pubDate>
+      <dc:date>2018-01-14T11:00:00Z</dc:date>
+    </item>
+    <dc:date>2019-04-19T11:14:18+02:00</dc:date>
+  </channel>
+</rss>

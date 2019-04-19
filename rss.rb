@@ -189,8 +189,7 @@ feed = RSS::Maker.make('2.0') do |maker|
       item.enclosure.url = node.entity.meta.audio_source.mp3
       item.enclosure.length = 1
 
-      item.source.url = url
-      item.source.content = node.entity.meta.description
+      item.description = node.entity.meta.description
     end
   end
 end

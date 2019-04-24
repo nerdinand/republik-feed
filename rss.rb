@@ -1,4 +1,6 @@
-require 'pry-byebug'
+if RUBY_ENGINE == 'ruby'
+  require 'pry-byebug'
+end
 
 require 'graphql/client'
 require 'graphql/client/http'

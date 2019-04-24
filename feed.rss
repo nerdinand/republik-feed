@@ -8,7 +8,17 @@
     <title>Republik: Vorgelesene Artikel</title>
     <link>https://republik.ch</link>
     <description>Republik: Vorgelesene Artikel</description>
-    <pubDate>Fri, 19 Apr 2019 11:20:43 +0200</pubDate>
+    <pubDate>Wed, 24 Apr 2019 08:11:49 +0200</pubDate>
+    <item>
+      <title>Am Klavier – Mozarts Fragmente</title>
+      <link>https://republik.ch/2019/04/22/am-klavier-mozarts-fragmente</link>
+      <description>Die kühnsten Experimente der Musikgeschichte finden wir in musikalischen Miniaturen, dort haben Komponisten Neues erprobt. Ein Podcast mit dem Pianisten Tomas Bächli.</description>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/Republik_Baechli_Mozart.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 22 Apr 2019 02:46:00 -0000</pubDate>
+      <dc:date>2019-04-22T02:46:00Z</dc:date>
+    </item>
     <item>
       <title>Die magische Schönheit der Zahlen</title>
       <link>https://republik.ch/2019/04/18/die-magische-schoenheit-der-zahlen</link>
@@ -959,6 +969,6 @@
       <pubDate>Sun, 14 Jan 2018 11:00:00 -0000</pubDate>
       <dc:date>2018-01-14T11:00:00Z</dc:date>
     </item>
-    <dc:date>2019-04-19T11:20:43+02:00</dc:date>
+    <dc:date>2019-04-24T08:11:49+02:00</dc:date>
   </channel>
 </rss>

@@ -8,7 +8,37 @@
     <title>Republik: Vorgelesene Artikel</title>
     <link>https://republik.ch</link>
     <description>Republik: Vorgelesene Artikel</description>
-    <pubDate>Wed, 24 Apr 2019 08:11:49 +0200</pubDate>
+    <pubDate>Wed, 01 May 2019 22:36:59 +0200</pubDate>
+    <item>
+      <title>Podcast-Serie «Zündstoff», Folge 3: Sammelwut</title>
+      <link>https://republik.ch/2019/05/01/sammelwut</link>
+      <description>Jemand hat die Kesb eingeschaltet, um Hilfe zu holen. Auch die Familie des Messies versucht zu rekonstruieren, wie Karls Sammeln so aus dem Ruder laufen konnte.</description>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/Zuendstoff/Republik_Zuendstoff_3.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 01 May 2019 02:48:00 -0000</pubDate>
+      <dc:date>2019-05-01T02:48:00Z</dc:date>
+    </item>
+    <item>
+      <title>Podcast-Serie «Zündstoff», Folge 2: U-Haft</title>
+      <link>https://republik.ch/2019/04/30/u-haft</link>
+      <description>Karl sitzt in Untersuchungshaft. In Knonau selbst hält man sich lieber raus und schweigt. Bis bei einem Schützenfest jemand über die angestaute Wut im Dorf redet.</description>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/Zuendstoff/Republik_Zuendstoff_2.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 30 Apr 2019 02:46:00 -0000</pubDate>
+      <dc:date>2019-04-30T02:46:00Z</dc:date>
+    </item>
+    <item>
+      <title>Podcast-Serie «Zündstoff», Folge 1: Knonau brennt</title>
+      <link>https://republik.ch/2019/04/29/knonau-brennt</link>
+      <description>Die Feuerwehr will das Haus des Messies retten, aber das Gerümpel versperrt ihr den Weg. Nach der Brandnacht steht nur noch eine Ruine. </description>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/Zuendstoff/Republik_Zuendstoff_1.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 29 Apr 2019 02:48:00 -0000</pubDate>
+      <dc:date>2019-04-29T02:48:00Z</dc:date>
+    </item>
     <item>
       <title>Am Klavier – Mozarts Fragmente</title>
       <link>https://republik.ch/2019/04/22/am-klavier-mozarts-fragmente</link>
@@ -969,6 +999,6 @@
       <pubDate>Sun, 14 Jan 2018 11:00:00 -0000</pubDate>
       <dc:date>2018-01-14T11:00:00Z</dc:date>
     </item>
-    <dc:date>2019-04-24T08:11:49+02:00</dc:date>
+    <dc:date>2019-05-01T22:36:59+02:00</dc:date>
   </channel>
 </rss>

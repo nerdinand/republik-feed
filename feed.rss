@@ -8,7 +8,37 @@
     <title>Republik: Vorgelesene Artikel</title>
     <link>https://republik.ch</link>
     <description>Republik: Vorgelesene Artikel</description>
-    <pubDate>Wed, 01 May 2019 22:36:59 +0200</pubDate>
+    <pubDate>Fri, 03 May 2019 22:12:58 +0200</pubDate>
+    <item>
+      <title> Podcast-Serie «Zündstoff», Folge 5: Ohne Obdach</title>
+      <link>https://republik.ch/2019/05/03/ohne-obdach</link>
+      <description>Karl schläft vor der Ruine des Hauses in einem Wohnwagen. Seine Kinder versuchen, ihn vor dem Ruin zu bewahren und die nächste Eskalation zu verhindern. Notfalls gegen seinen Willen.</description>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/Zuendstoff/Republik_Zuendstoff_5.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 03 May 2019 02:46:00 -0000</pubDate>
+      <dc:date>2019-05-03T02:46:00Z</dc:date>
+    </item>
+    <item>
+      <title>Podcast-Serie «Zündstoff», Folge 4: Offene Rechnungen</title>
+      <link>https://republik.ch/2019/05/02/offene-rechnungen</link>
+      <description>Karl wird aus der Untersuchungshaft entlassen. Vor dem Gefängnis wartet nicht nur die Familie auf ihn. Und ein neuer Verdacht zum Brand taucht auf. Wie sieht Karl selbst seine verfahrene Situation?</description>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/Zuendstoff/Republik_Zuendstoff_4.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 02 May 2019 02:50:00 -0000</pubDate>
+      <dc:date>2019-05-02T02:50:00Z</dc:date>
+    </item>
+    <item>
+      <title>Langweilig – wie spannend!</title>
+      <link>https://republik.ch/2019/05/02/langweilig-wie-spannend</link>
+      <description>Der Journalist Armin Wolf hat mehr Preise bekommen, als einem Menschen guttun. Jetzt erhält er noch einen. Langweilig? Hoffentlich!</description>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Armin-Wolf.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 02 May 2019 02:42:00 -0000</pubDate>
+      <dc:date>2019-05-02T02:42:00Z</dc:date>
+    </item>
     <item>
       <title>Podcast-Serie «Zündstoff», Folge 3: Sammelwut</title>
       <link>https://republik.ch/2019/05/01/sammelwut</link>
@@ -979,26 +1009,6 @@
       <pubDate>Fri, 26 Jan 2018 03:40:00 -0000</pubDate>
       <dc:date>2018-01-26T03:40:00Z</dc:date>
     </item>
-    <item>
-      <title>Eine kurze Geschichte des Lasters</title>
-      <link>https://republik.ch/2018/01/18/eine-kurze-geschichte-des-lasters</link>
-      <description>Stop Aids! Nicht rauchen! Vegan essen! Länger leben! Der Gegner aller vernünftigen Kampagnen ist der denkbar mächtigste: die menschliche Gier. Denn Exzess, Sex und Risiko sind nicht Nebengeräusche der westlichen Zivilisation. Sie sind ihr Motor.  </description>
-      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/republik_laster_kuehni.mp3"
-        length="1"
-        type="audio/mpeg"/>
-      <pubDate>Thu, 18 Jan 2018 05:35:00 -0000</pubDate>
-      <dc:date>2018-01-18T05:35:00Z</dc:date>
-    </item>
-    <item>
-      <title>Klingelt sein Handy, gehts um Leben und Tod</title>
-      <link>https://republik.ch/2018/01/14/musssie-zerai-anruf-auf-leben-und-tod</link>
-      <description>Wenn Mussie Zerai einen Anruf verpasst, geht vielleicht ein Boot mit Flüchtlingen unter. Unterwegs mit dem Priester, der 150’000 Leben rettete. Und den Staatsanwälte für einen Menschenhändler halten.</description>
-      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/republik_pfarrer_hanimann.mp3"
-        length="1"
-        type="audio/mpeg"/>
-      <pubDate>Sun, 14 Jan 2018 11:00:00 -0000</pubDate>
-      <dc:date>2018-01-14T11:00:00Z</dc:date>
-    </item>
-    <dc:date>2019-05-01T22:36:59+02:00</dc:date>
+    <dc:date>2019-05-03T22:12:58+02:00</dc:date>
   </channel>
 </rss>

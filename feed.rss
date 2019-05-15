@@ -8,7 +8,47 @@
     <title>Republik: Vorgelesene Artikel</title>
     <link>https://republik.ch</link>
     <description>Republik: Vorgelesene Artikel</description>
-    <pubDate>Fri, 03 May 2019 22:12:58 +0200</pubDate>
+    <pubDate>Wed, 15 May 2019 21:25:43 +0200</pubDate>
+    <item>
+      <title>«Das Ende ist noch offen, das ist noch nicht vorbei»</title>
+      <link>https://republik.ch/2019/05/15/das-ende-ist-noch-offen-das-ist-noch-nicht-vorbei</link>
+      <description>Im Podcast «Aus der Redaktion» geht es um die Geschichten hinter der Geschichte. Dieses Mal: Hintergründe zur Audio-Doku-Serie «Zündstoff».</description>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/Aus-der-Redaktion/Republik_AdR_Zuendstoff.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 15 May 2019 02:50:00 -0000</pubDate>
+      <dc:date>2019-05-15T02:50:00Z</dc:date>
+    </item>
+    <item>
+      <title>«Café Europa», Folge 2: Am Ende der Nahrungskette</title>
+      <link>https://republik.ch/2019/05/15/am-ende-der-nahrungskette</link>
+      <description>In Lyons Bar de l’Europe sind die Ansprüche tief. Hier ist Europa nur eine nüchterne Dienstleistung – wenn überhaupt.</description>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Cafe-Europa_Lyon_Kuratli.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 15 May 2019 02:46:00 -0000</pubDate>
+      <dc:date>2019-05-15T02:46:00Z</dc:date>
+    </item>
+    <item>
+      <title>«Café Europa», Folge 1: Die Rettung vor der Gefühlsduselei</title>
+      <link>https://republik.ch/2019/05/14/cafe-europa-wien</link>
+      <description>Wiens Café Europa nimmt dich immer so auf, wie du bist, zu jeder Zeit, sagen seine Gäste. So sollte Europa doch auch sein. Oder?</description>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Cafe-Europa_Wien_Khorsand.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 14 May 2019 02:50:00 -0000</pubDate>
+      <dc:date>2019-05-14T02:50:00Z</dc:date>
+    </item>
+    <item>
+      <title>Fix de Planet</title>
+      <link>https://republik.ch/2019/05/09/fix-de-planet</link>
+      <description>Petra Gössi zwingt dem Freisinn eine Klimadebatte auf – und löst damit einen epischen Richtungsstreit in ihrer Partei aus. Sie lebe hoch!</description>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Preis_Petra-Goessi.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 09 May 2019 02:46:00 -0000</pubDate>
+      <dc:date>2019-05-09T02:46:00Z</dc:date>
+    </item>
     <item>
       <title> Podcast-Serie «Zündstoff», Folge 5: Ohne Obdach</title>
       <link>https://republik.ch/2019/05/03/ohne-obdach</link>
@@ -969,46 +1009,6 @@
       <pubDate>Thu, 22 Feb 2018 03:40:00 -0000</pubDate>
       <dc:date>2018-02-22T03:40:00Z</dc:date>
     </item>
-    <item>
-      <title>Die Seidenstrasse des Geldes</title>
-      <link>https://republik.ch/2018/02/08/die-seidenstrasse-des-geldes</link>
-      <description>An den Währungsmärkten bahnt sich eine Zeitenwende an: Der Yuan soll den Dollar ablösen. Kann das gut gehen?</description>
-      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/republik_seidenstrasse_schmid.mp3"
-        length="1"
-        type="audio/mpeg"/>
-      <pubDate>Thu, 08 Feb 2018 03:45:00 -0000</pubDate>
-      <dc:date>2018-02-08T03:45:00Z</dc:date>
-    </item>
-    <item>
-      <title>Das Milliardenloch</title>
-      <link>https://republik.ch/2018/02/06/das-milliardenloch</link>
-      <description>Einst belächelt, steht der Tunnel an der Rosengartenstrasse kurz davor, Gesetz zu werden. Aber warum fällt über das Milliardenprojekt im derzeitigen Wahlkampf in Zürich kein Wort?</description>
-      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/republik_milliardenloch_rueegg.mp3"
-        length="1"
-        type="audio/mpeg"/>
-      <pubDate>Tue, 06 Feb 2018 03:40:00 -0000</pubDate>
-      <dc:date>2018-02-06T03:40:00Z</dc:date>
-    </item>
-    <item>
-      <title>Der digitale Diktator</title>
-      <link>https://republik.ch/2018/02/01/der-digitale-diktator</link>
-      <description>Die 5-Sterne-Bewegung versprach vor neun Jahren die radikale digitale Demokratie. Das Resultat ist ein autoritärer Kontrollapparat. Ein Blick in die digitale Anatomie der populärsten Partei Italiens. </description>
-      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/republik_diktator_fichter.mp3"
-        length="1"
-        type="audio/mpeg"/>
-      <pubDate>Thu, 01 Feb 2018 03:30:00 -0000</pubDate>
-      <dc:date>2018-02-01T03:30:00Z</dc:date>
-    </item>
-    <item>
-      <title>Ein Lächeln in Peking</title>
-      <link>https://republik.ch/2018/01/26/ein-laecheln-in-peking</link>
-      <description>Die Augen der Welt sind auf Donald Trump gerichtet, der heute am WEF in Davos auftritt. Nach einem Jahr Trump als US-Präsident ist klar: Für China ist er ein gigantisches Geschenk.</description>
-      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/republik_laecheln_dittli.mp3"
-        length="1"
-        type="audio/mpeg"/>
-      <pubDate>Fri, 26 Jan 2018 03:40:00 -0000</pubDate>
-      <dc:date>2018-01-26T03:40:00Z</dc:date>
-    </item>
-    <dc:date>2019-05-03T22:12:58+02:00</dc:date>
+    <dc:date>2019-05-15T21:25:43+02:00</dc:date>
   </channel>
 </rss>

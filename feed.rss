@@ -8,12 +8,22 @@
     <title>Republik: Vorgelesene Artikel</title>
     <link>https://republik.ch</link>
     <description>Republik: Vorgelesene Artikel</description>
-    <pubDate>Wed, 15 May 2019 21:25:43 +0200</pubDate>
+    <pubDate>Sun, 19 May 2019 12:57:31 +0200</pubDate>
+    <item>
+      <title>«Café Europa», Folge 3: Wo die wilden Kerle nicht mehr wohnen</title>
+      <link>https://republik.ch/2019/05/17/wo-die-wilden-kerle-nicht-mehr-wohnen</link>
+      <description>In Zagrebs Kino Europa hält man Europas Werte hoch. Auch wenn sie einen noch so sehr zum Korinthenkacker machen. «Café Europa», Folge 3.</description>
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Cafe-Europa_Zagreb_Khorsand.mp3"
+        length="1"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 17 May 2019 02:48:00 -0000</pubDate>
+      <dc:date>2019-05-17T02:48:00Z</dc:date>
+    </item>
     <item>
       <title>«Das Ende ist noch offen, das ist noch nicht vorbei»</title>
       <link>https://republik.ch/2019/05/15/das-ende-ist-noch-offen-das-ist-noch-nicht-vorbei</link>
       <description>Im Podcast «Aus der Redaktion» geht es um die Geschichten hinter der Geschichte. Dieses Mal: Hintergründe zur Audio-Doku-Serie «Zündstoff».</description>
-      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/Aus-der-Redaktion/Republik_AdR_Zuendstoff.mp3"
+      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/Aus-der-Redaktion/Republik_AdR_Zuendstoff_2.mp3"
         length="1"
         type="audio/mpeg"/>
       <pubDate>Wed, 15 May 2019 02:50:00 -0000</pubDate>
@@ -999,16 +1009,6 @@
       <pubDate>Wed, 28 Feb 2018 03:45:00 -0000</pubDate>
       <dc:date>2018-02-28T03:45:00Z</dc:date>
     </item>
-    <item>
-      <title>Warum Österreich rechts tickt</title>
-      <link>https://republik.ch/2018/02/22/oesterreich-tickt-rechts</link>
-      <description>Liegt an den Eliten und am Boulevard? Falsch. Es liegt an den Wählerinnen und Wählern. Eine Beschämung in acht Typen.</description>
-      <enclosure url="https://cdn.republik.space/s3/republik-assets/assets/audio-artikel/Republik_Boesterreicher_Khorsand.mp3"
-        length="1"
-        type="audio/mpeg"/>
-      <pubDate>Thu, 22 Feb 2018 03:40:00 -0000</pubDate>
-      <dc:date>2018-02-22T03:40:00Z</dc:date>
-    </item>
-    <dc:date>2019-05-15T21:25:43+02:00</dc:date>
+    <dc:date>2019-05-19T12:57:31+02:00</dc:date>
   </channel>
 </rss>
